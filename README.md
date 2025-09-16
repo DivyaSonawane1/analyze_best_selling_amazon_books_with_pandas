@@ -1,3 +1,4 @@
+![Amazon Bestsellers Analysis Banner](./images/Amazon%20bestsellers%20analysis.png)
 # analyze_best_selling_amazon_books_with_pandas
 # What Makes an Amazon Bestseller? A Pandas-Powered Analysis 📈
 
